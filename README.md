@@ -36,7 +36,7 @@ Yeah, you can watch also the tests
 $ yarn test:watch
 ```
 
-Will open Chrome and will watch on `.feature` files and `step_definitions` folder.
+Will open Chrome and will watch on `.feature` files and `step_definitions` folder. Also, the browser will reload every time you make a change to these files.
 
 ## License
 
